@@ -11,6 +11,6 @@ FROM Student s
 )
 where prior_month_sum < 1500
 )
-where rn <= 3 
+where rn <= 3  
 
 
